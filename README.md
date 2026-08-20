@@ -1,7 +1,7 @@
-# Turtle Physical Components
+# The Hope Turtle Shell
+## Our Open Source Printed Circuit Board for the Turtle Control Bottle
 
-The hope turtles various physical components can be either 3D printed or made out of wood by you or your local carpenter. Hang tight... we're still setting up the repository of STLs and carpentry PDFs. It should be ready soon.
+The Human2Human project aims to bring hope and humanity to the most hurting and isolated places on the planet — in a way that doesn't trouble the health and happiness of animals, fish and other our fellow creatures. To do so, we've developed the hope turtle: a non-capital, open-source, autonomous marine vehicle that embodies Earthen principles. This repository holds the designs for our "Turtle Shell" printed circuit board-- that holds and runs our TurtleOS (https://github.com/h2h-project/turtleOS) navigation platform.  
 
-    1. Turtle Control cap (fits into the top of a cut 1.5L bottle)
-    2. Turtle Cage (floats over the control cap and holds the sails)
-    3. Turtle chassis (holds the sail shaft and connects to the servo)
+The design of our PCB is shared under a CERN-OHL-S license in which we additionally stipulate that our work not be used for military purposes.
+
